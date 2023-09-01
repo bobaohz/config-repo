@@ -1,2 +1,3 @@
 polar:
   greeting: "Welcome to the catalog from a fresh config server"
+  name: "configuired name from deault config file"
